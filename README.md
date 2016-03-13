@@ -4,4 +4,4 @@ This page is created as part of a training project of Free Code Camp Certificati
 
 I have chosen to create this page for the great Turkish Leader "Mustafa Kemal Ataturk".
 
-Link = ""
+I mainly used HTML, CSS, BootStrap.
